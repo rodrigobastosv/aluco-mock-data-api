@@ -13,42 +13,5 @@
       "photo_url": "https://www.careerfaqs.com.au/wp-content/uploads/2018/10/How_to_become_a_teacher_612px.jpg",
       "user_id": 1
     }
-  ],
-  "class": [
-    {
-      "id": 1,
-      "name": "Matemática - Tarde",
-      "description": "Turma de matemática no turno da tarde",
-      "create_date": "2019-10-05T14:48:00.000Z",
-      "teacher_id": 1
-    },
-    {
-      "id": 2,
-      "name": "Matemática - Manhã",
-      "description": "Turma de matemática no turno da manhã",
-      "create_date": "2019-10-05T14:48:00.000Z",
-      "teacher_id": 1
-    },
-    {
-      "id": 3,
-      "name": "Biologia - Tarde",
-      "description": "Turma de biologia no turno da tarde",
-      "create_date": "2019-10-05T14:48:00.000Z",
-      "teacher_id": 1
-    },
-    {
-      "id": 4,
-      "name": "Biologia - Manhã",
-      "description": "Turma de biologia no turno da manhã",
-      "create_date": "2019-10-05T14:48:00.000Z",
-      "teacher_id": 1
-    },
-    {
-      "id": 5,
-      "name": "Português - Tarde",
-      "description": "Turma de português no turno da tarde",
-      "create_date": "2019-10-05T14:48:00.000Z",
-      "teacher_id": 1
-    }
   ]
 }
