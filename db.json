@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "user": [
+    {
+      "id": 1,
+      "username": "rodmaster",
+      "password": "123"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "teacher": [
+    {
+      "id": 1,
+      "name": "Rodrigo Master Blaster",
+      "photo_url": "https://www.careerfaqs.com.au/wp-content/uploads/2018/10/How_to_become_a_teacher_612px.jpg",
+      "user_id": 1
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "class": [
+    {
+      "id": 1,
+      "name": "Matemática - Tarde",
+      "description": "Turma de matemática no turno da tarde",
+      "create_date": "2019-10-05T14:48:00.000Z",
+      "teacher_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Matemática - Manhã",
+      "description": "Turma de matemática no turno da manhã",
+      "create_date": "2019-10-05T14:48:00.000Z",
+      "teacher_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Biologia - Tarde",
+      "description": "Turma de biologia no turno da tarde",
+      "create_date": "2019-10-05T14:48:00.000Z",
+      "teacher_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Biologia - Manhã",
+      "description": "Turma de biologia no turno da manhã",
+      "create_date": "2019-10-05T14:48:00.000Z",
+      "teacher_id": 1
+    },
+    {
+      "id": 5,
+      "name": "Português - Tarde",
+      "description": "Turma de português no turno da tarde",
+      "create_date": "2019-10-05T14:48:00.000Z",
+      "teacher_id": 1
+    },
+  ],
 }
