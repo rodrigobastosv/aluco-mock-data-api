@@ -13,5 +13,31 @@
       "photo_url": "https://www.careerfaqs.com.au/wp-content/uploads/2018/10/How_to_become_a_teacher_612px.jpg",
       "user_id": 1
     }
+  ],
+  "class": [
+    {
+      "id": 1,
+      "name": "Turma 1A - Biologia - Manhã"
+    },
+    {
+      "id": 2,
+      "name": "Turma 2A - Biologia - Tarde"
+    },
+    {
+      "id": 3,
+      "name": "Turma 1A - Matemática - Manhã"
+    },
+    {
+      "id": 4,
+      "name": "Turma 2A - Matemática - Tarde"
+    },
+    {
+      "id": 5,
+      "name": "Turma 1C - Filosofia - Manhã"
+    },
+    {
+      "id": 6,
+      "name": "Turma 2C - Filosofia - Tarde"
+    }
   ]
 }
